@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-openai
+fastapi
+qdrant-client
+sentence-transformers
+pydantic
+uvicorn
+langgraph
+python-dotenv
